@@ -1,3 +1,4 @@
 print("hello git")
-
 идинананананагоруруруру
+gonapiwopidr
+dura
